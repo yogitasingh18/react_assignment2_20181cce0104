@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_assignment2_20181cce0104/static/css/main.87016ca2.chunk.css",
+    "main.js": "/react_assignment2_20181cce0104/static/js/main.5e9853c5.chunk.js",
+    "main.js.map": "/react_assignment2_20181cce0104/static/js/main.5e9853c5.chunk.js.map",
+    "runtime-main.js": "/react_assignment2_20181cce0104/static/js/runtime-main.212a935b.js",
+    "runtime-main.js.map": "/react_assignment2_20181cce0104/static/js/runtime-main.212a935b.js.map",
+    "static/js/2.cfa0afd8.chunk.js": "/react_assignment2_20181cce0104/static/js/2.cfa0afd8.chunk.js",
+    "static/js/2.cfa0afd8.chunk.js.map": "/react_assignment2_20181cce0104/static/js/2.cfa0afd8.chunk.js.map",
+    "static/js/3.5fbd3b76.chunk.js": "/react_assignment2_20181cce0104/static/js/3.5fbd3b76.chunk.js",
+    "static/js/3.5fbd3b76.chunk.js.map": "/react_assignment2_20181cce0104/static/js/3.5fbd3b76.chunk.js.map",
+    "index.html": "/react_assignment2_20181cce0104/index.html",
+    "static/css/main.87016ca2.chunk.css.map": "/react_assignment2_20181cce0104/static/css/main.87016ca2.chunk.css.map",
+    "static/js/2.cfa0afd8.chunk.js.LICENSE.txt": "/react_assignment2_20181cce0104/static/js/2.cfa0afd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212a935b.js",
+    "static/js/2.cfa0afd8.chunk.js",
+    "static/css/main.87016ca2.chunk.css",
+    "static/js/main.5e9853c5.chunk.js"
+  ]
+}
